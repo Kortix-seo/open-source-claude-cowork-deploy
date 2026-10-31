@@ -1,6 +1,6 @@
 # Open-Source Claude Cowork Deployment: Self-Host Kortix
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is the deployment runbook for a team that wants the agent work it runs in Claude Cowork to run instead on infrastructure that team owns. It carries a working `kortix.yaml`, a deploy-ops agent, a self-host skill, and the setup, comparison and FAQ docs to take it live.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is the deployment runbook for a team that wants the agent work it runs in Claude Cowork to run instead on infrastructure that team owns. It carries a working `kortix.yaml`, a deploy-ops agent, a self-host skill, and the setup, comparison and FAQ docs to take it live.
 
 ## What this repo is
 
